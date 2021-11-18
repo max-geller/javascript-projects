@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+    <title>Tic-Tac-Toe 3000</title>
+  </head>
+  <body>
+    <button id="restartButton">Add Player</button>
+    <div class="main-container">
+      <div class="scoreboard" id="scoreboard">
+        <div class="name">
+          <strong>Player:</strong>
+          <div>Max</div>
+          <div>Dave</div>
+        </div>
+        <div class="score">
+        <strong>
+          Score:
+        </strong>
+          <div>11</div>
+          <div>3</div>
+        </div>
+      </div>
+      <div class="board" id="board">
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+        <div class="cell" data-cell></div>
+      </div>
+    </div>
+    <div class="winning-message" id="winningMessage">
+      <div data-winning-message-text></div>
+      <button id="restartButton">Restart</button>
+    </div>
+  </body>
+</html>

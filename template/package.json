@@ -1,0 +1,11 @@
+{
+  "name": "template",
+  "version": "0.0.0",
+  "description": "This is a standard NodeJS template for JavaScript development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max M. Geller",
+  "license": "MIT"
+}
