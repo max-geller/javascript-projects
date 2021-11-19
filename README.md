@@ -3,7 +3,7 @@
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  |       [Hex Color Randomizer](https://github.com/max-geller/javascript-projects/color-randomizer)       | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
+| 01  |       [Hex Color Randomizer](https://github.com/max-geller/javascript-projects/tree/main/color-randomizer)       | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
 | 02  |       [JavaScript Clock](https://github.com/max-geller/javascript-projects)       | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
 | 03  |     [Movement Detection](https://github.com/max-geller/javascript-projects)    | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
 | 04  |    [Face Detection](https://github.com/max-geller/javascript-projects)     | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
