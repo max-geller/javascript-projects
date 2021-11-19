@@ -4,7 +4,7 @@ A collection of some vanilla JavaScript projects completed during my developer j
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  |       [Hex Color Randomizer](https://github.com/max-geller/javascript-projects/tree/main/color-randomizer)       | [Live Demo](https://https://codepen.io/max-geller/pen/porYajb)  |
+| 01  |       [Hex Color Randomizer](https://github.com/max-geller/javascript-projects/tree/main/color-randomizer)       | [Live Demo](https://codepen.io/max-geller/pen/porYajb)  |
 | 01  |       [kW to kVA Calculator](https://github.com/max-geller/javascript-projects/tree/main/kva-calculator)       | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
 | 02  |       [JavaScript Clock](https://github.com/max-geller/javascript-projects)       | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
 | 03  |     [Movement Detection](https://github.com/max-geller/javascript-projects)    | [Live Demo](https://dev.maxgeller.com.com/projects/)  |
