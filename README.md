@@ -1,5 +1,6 @@
 # JavaScript Sandbox
 
+A collection of some vanilla JavaScript projects completed during my developer journey.
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
