@@ -1,7 +1,7 @@
-# JavaScript Project Template
+# kW to kVA Calculator
 
 ## Overview
-
+Basic conversion from kW to kVA using power factor (pf).
 
 ## Credit
 
